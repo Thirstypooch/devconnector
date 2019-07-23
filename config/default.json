@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://nito:ratata@devconnector-p3jg8.mongodb.net/test?retryWrites=true&w=majority"
+}
